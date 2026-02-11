@@ -1,0 +1,9 @@
+{
+  "active": true,
+  "iteration": 1,
+  "max_iterations": 50,
+  "completion_promise": "COMPLETE",
+  "debug": false,
+  "started_at": "2026-02-11T07:45:47.493Z",
+  "prompt": "Build a REST API for todos. Requirements: CRUD operations, input validation, tests. Output <promise>COMPLETE</promise> when done."
+}
